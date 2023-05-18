@@ -1,0 +1,1 @@
+ // name1.printinfo(name1.name, name1.age);
